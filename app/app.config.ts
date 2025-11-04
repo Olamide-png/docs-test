@@ -19,8 +19,8 @@ export default defineAppConfig({
     to: '/',
     logo: {
       alt: '',
-      light: '',
-      dark: ''
+      light: '/ESW-Logo-Dark.svg',
+      dark: '/logo.svg'
     },
     search: true,
     colorMode: true,
