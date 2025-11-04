@@ -15,7 +15,7 @@ export default defineAppConfig({
     siteName: 'Nuxt Docs Template'
   },
   header: {
-    title: '',
+    title: 'Knowledge Centre',
     to: '/',
     logo: {
       alt: '',
